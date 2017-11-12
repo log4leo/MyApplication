@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.zjy.wukazhifu"
+    android:versionCode="3"
+    android:versionName="3.1" >
+
+    <uses-sdk
+        android:minSdkVersion="14"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+
+    <application
+        android:name="com.zjy.wukazhifu.util.MyApplication"
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.zjy.wukazhifu.activity.SplashActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.LoginActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.RegisterActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ForgetpwdActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.MainActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ShimingActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.Shiming2Activity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.CardActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.AddCardActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ChangeCardActivity" >
+        </activity>
+        <activity
+            android:name="com.zjy.wukazhifu.activity.BankActivity"
+            android:windowSoftInputMode="stateHidden|stateAlwaysHidden" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.HuiyuanActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.FeilvActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.OrderActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.OrderSearchActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.WodeshouyiActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.FenrunTixianActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ShouyiActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ShouyiSearchActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.XinshouActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.YueActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ShoukuanTixianActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.JiesuantongdaoActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.TixianActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.JiaoyiActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.TongdaoActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ShoukuanActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ResultActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ShengjiActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ShareActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.TongdaoDmfActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.BangdanActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.HongbaoSearchActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.XieyiActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.YinlianActivity" >
+        </activity>
+        <activity android:name="com.zjy.wukazhifu.activity.ADActivity" >
+        </activity>
+
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="59ccaa3dbbea83747000029e" >
+        </meta-data>
+
+        <activity
+            android:name=".wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+        <activity
+            android:name="com.umeng.qq.tencent.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+
+                <data android:scheme="tencent111111" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.umeng.qq.tencent.AssistActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+    </application>
+
+</manifest>

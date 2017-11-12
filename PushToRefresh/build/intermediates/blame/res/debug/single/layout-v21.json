@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\layout-v21\\notification_action.xml"
+    }
+]
