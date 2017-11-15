@@ -26,13 +26,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:scaleType="centerCrop"
-                android:src="@drawable/dangmianfu" />
+                android:src="@drawable/yinliankuaijie" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="当面付"
+                android:text="银联快捷"
                 android:textColor="@color/white"
                 android:textSize="18sp" />
         </LinearLayout>
@@ -49,13 +49,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:scaleType="centerCrop"
-                android:src="@drawable/weixin" />
+                android:src="@drawable/saoma" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="微信"
+                android:text="扫码"
                 android:textColor="@color/white"
                 android:textSize="18sp" />
         </LinearLayout>
@@ -72,13 +72,13 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:scaleType="centerCrop"
-                android:src="@drawable/zhifubao" />
+                android:src="@drawable/gudingma" />
 
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="10dp"
-                android:text="支付宝"
+                android:text="固定码"
                 android:textColor="@color/white"
                 android:textSize="18sp" />
         </LinearLayout>

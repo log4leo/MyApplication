@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+        "outputFile": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 163
                 },
                 "from": {
-                    "file": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "file": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,

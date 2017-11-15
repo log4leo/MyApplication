@@ -33,7 +33,7 @@ public class JiaoyiActivity extends Activity implements OnClickListener {
 	private ImageView backImg;
 	
 	private EditText amtEdt;
-	private TextView nextTxt;
+//	private TextView nextTxt;
 
 	private double max = 50000;
 	private double min = 110;
@@ -67,11 +67,11 @@ public class JiaoyiActivity extends Activity implements OnClickListener {
 				} catch (Exception e) {
 				}
 				if (num <= max && num >= min) {
-					nextTxt.setEnabled(true);
-					nextTxt.setBackgroundResource(R.drawable.blue_bg);
+//					nextTxt.setEnabled(true);
+//					nextTxt.setBackgroundResource(R.drawable.blue_bg);
 				} else {
-					nextTxt.setEnabled(false);
-					nextTxt.setBackgroundResource(R.drawable.gray_bg_round);
+//					nextTxt.setEnabled(false);
+//					nextTxt.setBackgroundResource(R.drawable.gray_bg_round);
 					ToastHelper.toast(JiaoyiActivity.this, "输入的金额必须大于等于"+min+",小于等于"+max);
 				}
 			}
@@ -83,10 +83,10 @@ public class JiaoyiActivity extends Activity implements OnClickListener {
 				return false;
 			}
 		});
-		nextTxt = (TextView) findViewById(R.id.nextTxt);
-		nextTxt.setOnClickListener(this);
-		nextTxt.setEnabled(false);
-		nextTxt.setBackgroundResource(R.drawable.gray_bg_round);
+//		nextTxt = (TextView) findViewById(R.id.nextTxt);
+//		nextTxt.setOnClickListener(this);
+//		nextTxt.setEnabled(false);
+//		nextTxt.setBackgroundResource(R.drawable.gray_bg_round);
 	}
 
 	@Override

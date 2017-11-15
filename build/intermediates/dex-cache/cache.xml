@@ -3,111 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_social_api.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="b680704ac08a1203f713be45e7c95653bb7497fe">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_api_1fc1dce181ae3a9e0717a05728bb82cf05427a56/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_999ef2376177b83c817d937a0dc46edeb479e849/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="d18643fc496e995813dafccd9f1dba3b59014fa5">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea82365230a9793529adf27b40cf2b33ed6fe914/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_social_shareboard.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="61fdc2bd1237079ae596f6cc93b6a5807d23940e">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_shareboard_8d04fdde1816877783284cbadc5b39597415deee/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/core-3.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/core-3.1.0_1247b520427c26568fdab2a714bfebc03fdddc71/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/gson-2.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_57bb72a6cbd22383b4aab2e0aec057b6cb70a2a7/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_social_tool.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="87ef211d4ef0c257c7d040fbaa411832330eb9aa">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_tool_cde67de56b922d3406e842df5b84c3d1702d2e13/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/SocialSDK_QQ_Simplify.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="979e86baea93da217d1d6dd8649d04a11624c183">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_QQ_Simplify_641e55792c335ae49ed083c8bb8d609622249c44/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_shareboard_widget.jar"
+        jar="D:\wukazhifu\MyApplication\app\libs\umeng_shareboard_widget.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
         sha1="4b1a59e4c996ee354c2db160f4b1ad3b0e94aab5">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_shareboard_widget_360fdb063fe412f00e1595f9bb2cc9acde3a3a6f/classes.dex" />
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_shareboard_widget_bb33c4950b959fbdcf073fb5f0873a721c309bdb\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_social_net.jar"
+        jar="D:\wukazhifu\MyApplication\app\libs\gson-2.8.0.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="9a2fc3d30ce3cb03014a373b1d5c8b5795334271">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_net_0167bdc3500e236ab6758d9832a995969ef16ef3/classes.dex" />
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.8.0_40c7625830268bea14e12313486cd5be9f3a4a12\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/SocialSDK_WeChat_Simplify.jar"
+        jar="D:\wukazhifu\MyApplication\app\libs\umeng_social_tool.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="fedb13cbfab727c73c9b2d91f5f1b8ab9c91980f">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_WeChat_Simplify_e45dd67749da4a495ce3d30b74912c9b795dc458/classes.dex" />
+        sha1="87ef211d4ef0c257c7d040fbaa411832330eb9aa">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_tool_d1dcc227f4106743c641c86c86c3c77c278f20e9\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/yang/gits/github/MyApplication/app/libs/android-support-v4.jar"
+        jar="D:\wukazhifu\MyApplication\app\libs\core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.1.0_c29aa5af704cf6f238e7d0e245226aa3a209f73a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\wukazhifu\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e569b035aae91505cced3367119ab3a5ab582498\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\wukazhifu\MyApplication\app\libs\umeng_social_api.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="b680704ac08a1203f713be45e7c95653bb7497fe">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_api_bd936ea64ae3bb4214eb4f8156fd6225532e604e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\wukazhifu\MyApplication\app\libs\SocialSDK_QQ_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="979e86baea93da217d1d6dd8649d04a11624c183">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQ_Simplify_41603592da4f4ea4397ccadb09838c04076c22dd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\wukazhifu\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="ac7ef973432c00173614c4f5bfc2c12705c120f7">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_40f62cbaa0a9bed9d1d07a73ac38a62b6474bcb1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\wukazhifu\MyApplication\app\libs\android-support-v4.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
         sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
-        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_8904d3a3ffc14012c6bedde80e340fb193c5d4f9/classes.dex" />
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_45ee20ed17fe1f6b388e001444f4490881bfb0bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\wukazhifu\MyApplication\app\libs\SocialSDK_WeChat_Simplify.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="fedb13cbfab727c73c9b2d91f5f1b8ab9c91980f">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeChat_Simplify_af35852b62fa62bb3707bc152713554c16b3a54b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\wukazhifu\MyApplication\app\libs\umeng_social_net.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="9a2fc3d30ce3cb03014a373b1d5c8b5795334271">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_net_913203fb5fbf1e7f5064226df1ae46b309670034\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\wukazhifu\MyApplication\app\libs\umeng_social_shareboard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="61fdc2bd1237079ae596f6cc93b6a5807d23940e">
+        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_shareboard_a3b34821480bf811255f663c401c1602989d4f87\classes.dex" />
     </item>
 
 </items>
