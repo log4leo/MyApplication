@@ -335,6 +335,7 @@ public class HomeFragment extends Fragment implements OnClickListener {
 		LoadingDialog.show(getActivity());
 		String url = Constants.ADDR_my;
 		Map<String, String> param = new HashMap<String, String>();
+		String h=PreferenceHelper.getCustLogin();
 		param.put("custLogin", PreferenceHelper.getCustLogin());
 		String cookie = PreferenceHelper.getCookie();
 		PostJsonObjectRequest request = new PostJsonObjectRequest(url, cookie, param, new Response.Listener<JSONObject>() {
