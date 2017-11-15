@@ -1,58 +1,58 @@
 [
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_bottom.xml",
-        "source": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_bottom.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_slide_in_top.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_popup_exit.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_slide_out_bottom.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_fade_out.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_slide_out_top.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_top.xml",
+        "source": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/bundles/debug/res/anim/slide_in_from_top.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_bottom.xml",
-        "source": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_bottom.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_out.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_fade_out.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_bottom.xml",
+        "source": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/bundles/debug/res/anim/slide_out_to_bottom.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_slide_in_bottom.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_out_to_top.xml",
-        "source": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_out_to_top.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_popup_enter.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\slide_in_from_top.xml",
-        "source": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\bundles\\debug\\res\\anim\\slide_in_from_top.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_out_to_top.xml",
+        "source": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/bundles/debug/res/anim/slide_out_to_top.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/slide_in_from_bottom.xml",
+        "source": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/bundles/debug/res/anim/slide_in_from_bottom.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/androidTest/debug/anim/abc_fade_in.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/anim/abc_fade_in.xml"
     }
 ]

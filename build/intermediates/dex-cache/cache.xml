@@ -3,228 +3,111 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\d80439061d4eb482fa67a4095fdf701f9f50d5a6\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c51c0f9a813868eb6117ba00f0b689f04fea6d9b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\umeng_shareboard_widget.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="4b1a59e4c996ee354c2db160f4b1ad3b0e94aab5">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_shareboard_widget_bb33c4950b959fbdcf073fb5f0873a721c309bdb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\gson-2.8.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\gson-2.8.0_40c7625830268bea14e12313486cd5be9f3a4a12\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\volley.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="4a94601db9bdfb7dc60efabb3dea91a0675f591d">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\volley_7574950101b51c9604d961e8da75e74390ca92ac\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\73bff8af5816dfe0c4f9ca4355cafdcf208b8665\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_91bbb64572a9f13e30d69174e8b5f2305c92ce9f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\android-sdk_r24.4.1-windows\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0-alpha1_99be54e4cd491efc878a264d2cb536f8163de0b4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\umeng_social_tool.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="87ef211d4ef0c257c7d040fbaa411832330eb9aa">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_tool_d1dcc227f4106743c641c86c86c3c77c278f20e9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\core-3.1.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\core-3.1.0_c29aa5af704cf6f238e7d0e245226aa3a209f73a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\d7dfea4419c70fd0cceafdde53a7674cfa188804\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ed98c67e589ff1a82552d19c6aab923ec1bb6584\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\umeng_social_api.jar"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_social_api.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
         sha1="b680704ac08a1203f713be45e7c95653bb7497fe">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_api_bd936ea64ae3bb4214eb4f8156fd6225532e604e\classes.dex" />
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_api_1fc1dce181ae3a9e0717a05728bb82cf05427a56/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="35e7636ef3b31de48ccf78a6e8434c6d52591ed1">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_40f62cbaa0a9bed9d1d07a73ac38a62b6474bcb1\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\6530c46f96b3164c56f673a64b4025bbffb80c79\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c5c1e6e1b375451ff42a599bd6c0463047ac2b8f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\android-support-v4.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-support-v4_45ee20ed17fe1f6b388e001444f4490881bfb0bc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\SocialSDK_WeChat_Simplify.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="fedb13cbfab727c73c9b2d91f5f1b8ab9c91980f">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_WeChat_Simplify_af35852b62fa62bb3707bc152713554c16b3a54b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\19b43532bd886371ff806045f7c61256e552fd77\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d4e645f14e6b406ffe6b0284c69df1e4245564d3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\umeng_social_shareboard.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="61fdc2bd1237079ae596f6cc93b6a5807d23940e">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_shareboard_a3b34821480bf811255f663c401c1602989d4f87\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\8af417f6fc47c58567996466a870db8d90c3c5e7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a744f4dd32c2fde4a225a731812e3b2e0cbb4822\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\a039dff987c5c2bc4c84985b2b2e052c2a96fbe7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_eb41ea592f1dfffc1dde0e30a4d5fbac1994a845\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="/Users/yang/gits/github/MyApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
         sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_e569b035aae91505cced3367119ab3a5ab582498\classes.dex" />
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_999ef2376177b83c817d937a0dc46edeb479e849/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\00a8d9ba97809cb898f08ac3b89dd1f74f200909\output\jars\classes.jar"
+        jar="/Users/yang/gits/github/MyApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bd09a75104384442b85ebf23fd0675ddbdf57a34\classes.dex" />
+        sha1="d18643fc496e995813dafccd9f1dba3b59014fa5">
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ea82365230a9793529adf27b40cf2b33ed6fe914/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\SocialSDK_QQ_Simplify.jar"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_social_shareboard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="61fdc2bd1237079ae596f6cc93b6a5807d23940e">
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_shareboard_8d04fdde1816877783284cbadc5b39597415deee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/core-3.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="908e18674f895e3e1fa8f4a954b8c637a23d2801">
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/core-3.1.0_1247b520427c26568fdab2a714bfebc03fdddc71/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/gson-2.8.0_57bb72a6cbd22383b4aab2e0aec057b6cb70a2a7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_social_tool.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="87ef211d4ef0c257c7d040fbaa411832330eb9aa">
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_tool_cde67de56b922d3406e842df5b84c3d1702d2e13/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/SocialSDK_QQ_Simplify.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
         sha1="979e86baea93da217d1d6dd8649d04a11624c183">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\SocialSDK_QQ_Simplify_41603592da4f4ea4397ccadb09838c04076c22dd\classes.dex" />
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_QQ_Simplify_641e55792c335ae49ed083c8bb8d609622249c44/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\wukazhifu\MyApplication\app\libs\umeng_social_net.jar"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_shareboard_widget.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="27.0.1"
+        sha1="4b1a59e4c996ee354c2db160f4b1ad3b0e94aab5">
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_shareboard_widget_360fdb063fe412f00e1595f9bb2cc9acde3a3a6f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/umeng_social_net.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
         sha1="9a2fc3d30ce3cb03014a373b1d5c8b5795334271">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\2\umeng_social_net_913203fb5fbf1e7f5064226df1ae46b309670034\classes.dex" />
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/umeng_social_net_0167bdc3500e236ab6758d9832a995969ef16ef3/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\7940d632680dda55d2a3afc12639a858241bcb25\output\jars\classes.jar"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/SocialSDK_WeChat_Simplify.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d18ee701e9dbb4c710c97ed1b63fe44c78bdfc41\classes.dex" />
+        sha1="fedb13cbfab727c73c9b2d91f5f1b8ab9c91980f">
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/SocialSDK_WeChat_Simplify_e45dd67749da4a495ce3d30b74912c9b795dc458/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="D:\android-sdk_r24.4.1-windows\android-sdk-windows\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jar="/Users/yang/gits/github/MyApplication/app/libs/android-support-v4.jar"
         jumboMode="true"
         optimize="true"
         revision="27.0.1"
-        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.0.2_92843849c0e5a7c42a4c1f926b89be08459d385b\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\Administrator\.android\build-cache\e10adec7f724654c1484278e44942ac63c34e803\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="27.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="D:\wukazhifu\MyApplication\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_292a9fe28e54180865fff3b238ce3b02864c0815\classes.dex" />
+        sha1="ded9acc6a9792b8f1afc470f0c9cd36d178914cd">
+        <dex dex="/Users/yang/gits/github/MyApplication/app/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_8904d3a3ffc14012c6bedde80e340fb193c5d4f9/classes.dex" />
     </item>
 
 </items>
