@@ -1,10 +1,10 @@
 [
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\release\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "merged": "/Users/yang/gits/github/MyApplication/PushToRefresh/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/yang/.android/build-cache/3dd540271373299fe8db05e0eee00363a9170c04/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
     }
 ]
