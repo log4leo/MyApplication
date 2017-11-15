@@ -24,12 +24,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\drawable\\notification_bg_low.xml"
-    },
-    {
         "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\00a8d9ba97809cb898f08ac3b89dd1f74f200909\\output\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "D:\\wukazhifu\\MyApplication\\PushToRefresh\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\indicator_bg_top.xml",
