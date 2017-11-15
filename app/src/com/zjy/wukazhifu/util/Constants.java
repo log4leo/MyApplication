@@ -15,7 +15,9 @@ public class Constants {
 	// public static String ADDR_host = "https://h5app.shugenpay.com/";
 	// public static String ADDR_host = "https://th5app.shugenpay.com/";
 	// public static String ADDR_host = "http://gq17676569.iok.la/webapp/";
-	 public static String ADDR_host = "http://test5.nat123.net/webapp/";
+	 //public static String ADDR_host = "http://test5.nat123.net/webapp/";//shencheng
+	public static String ADDR_host = "https://h5app.shugenpay.com/";//shencheng
+
 	// public static String ADDR_host = "http://xiejinz.6655.la:29128/webapp/";
 
 	// 登录
