@@ -9,5 +9,8 @@
 *.class
 
 
-
+*.bin
+*.lock
 # 
+
+.idea/*
